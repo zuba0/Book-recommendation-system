@@ -4,3 +4,18 @@
 </p>
 
 ## Dataset
+
+## Results
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2">Algorithm</th>
+			<th>Result</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr><td></td><td></td></tr>
+	</tbody>
+</table>
+
