@@ -5,6 +5,8 @@
 
 *If you don’t like to read, you haven’t found the right book* - J.K. Rowling
 
+## Installation
+
 ## Dataset
 
 [Goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k)
