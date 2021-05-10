@@ -7,6 +7,10 @@
 
 ## Installation
 
+## Aproaches
+
+1) ITEM-ITEM
+
 ## Dataset
 
 [Goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k)
