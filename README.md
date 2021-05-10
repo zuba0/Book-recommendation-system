@@ -10,6 +10,7 @@
 ## Aproaches
 
 1) Item-to-Item Based Collaborative Filtering
+2) user-to_User Based Collaborative Filtering
 
 ## Dataset
 
