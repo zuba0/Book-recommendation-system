@@ -9,7 +9,7 @@
 
 ## Aproaches
 
-1) ITEM-ITEM
+1) Item-to-Item Based Collaborative Filtering
 
 ## Dataset
 
