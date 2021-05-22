@@ -6,7 +6,8 @@
 *If you don’t like to read, you haven’t found the right book* - J.K. Rowling
 
 ## Project description
-
+In this proejct I compared different models used for recommendation.
+All models are from the library Surprise.
 
 ## Installation
 This project is written in Python 3.8.3.
