@@ -7,6 +7,7 @@
 
 ## Project description
 The goal of this project is creation of books recommendation system.
+I compared different models and approaches to find the best solution.
 
 
 ## Installation
