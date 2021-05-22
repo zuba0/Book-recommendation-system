@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Results
 
-The best RMSE and MAE were achieved by SVD - we want to minimalize these values. All models are better than random approach.
+The best [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) and [MAE](https://en.wikipedia.org/wiki/Mean_absolute_error) were achieved by SVD - we want to minimalize these values. All models are better than random approach.
 
 | Model | RMSE | MAE |
 | --- | --- | --- |
