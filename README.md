@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-[Goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k)
+[Goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - only books.csv and ratings.csv are used in this project.
 
 ## Results
 
