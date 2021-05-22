@@ -32,14 +32,14 @@ SVD++
 | Model | RMSE | MAE |
 | --- | --- | --- |
 | Random   |	1.321724 |	1.051821 |
-| KNNBasic_user_based	| 0.951170 |	0.760192 |
-| KNNBaseline_user_based |	0.853463 |	0.671673 |
-|	KNNWithZScore_user_based |	0.855638 |	0.665709 |
-|	KNNWithMeans_user_based |	0.857791 |	0.668161 |
-|	KNNBasic_item_based |	0.888497 |	0.696982 |
-|	KNNBaseline_item_based |	0.856132 |	0.668380 |
-|	KNNWithZScore_item_based |	0.866092 |	0.677739 |
-|	KNNWithMeans_item_based |	0.864491 |	0.676945 |
+| KNNBasic user_based	| 0.951170 |	0.760192 |
+| KNNBaseline user_based |	0.853463 |	0.671673 |
+|	KNNWithZScore user_based |	0.855638 |	0.665709 |
+|	KNNWithMeans user_based |	0.857791 |	0.668161 |
+|	KNNBasic item_based |	0.888497 |	0.696982 |
+|	KNNBaseline item_based |	0.856132 |	0.668380 |
+|	KNNWithZScore item_based |	0.866092 |	0.677739 |
+|	KNNWithMeans item_based |	0.864491 |	0.676945 |
 |	SVD |	0.845166 |	0.663349 |
 
 
