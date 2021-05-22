@@ -7,6 +7,7 @@
 
 ## Installation
 This project is written in Python 3.8.3.
+The requirements.txt file contains all required Python libraries. They they will be installed using:
 ```
 pip install -r requirements.txt
 ```
