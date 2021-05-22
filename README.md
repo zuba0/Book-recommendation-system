@@ -9,7 +9,6 @@
 The goal of this project is creation of books recommendation system.
 I compared different models and collaborative filtering approaches to find the best solution.
 
-
 ## Installation
 This project is written in Python 3.8.3.
 The `requirements.txt` file contains all required Python libraries. They can be installed using:
