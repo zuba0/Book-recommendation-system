@@ -26,9 +26,6 @@ Collaborative
 
 [Goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k)
 
-## Models
-SVD
-SVD++
 ## Results
 
 | Model | RMSE | MAE |
