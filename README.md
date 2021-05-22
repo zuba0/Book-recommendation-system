@@ -38,3 +38,5 @@ The best [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) and [M
 |	SVD |	0.845166 |	0.663349 |
 
 ## Example
+
+![alt text](pictures/prediction.PNG)
