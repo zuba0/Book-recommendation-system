@@ -5,7 +5,8 @@
 
 *If you don’t like to read, you haven’t found the right book* - J.K. Rowling
 
-## Project
+## Project description
+
 
 ## Installation
 This project is written in Python 3.8.3.
