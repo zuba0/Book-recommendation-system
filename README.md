@@ -5,6 +5,8 @@
 
 *If you don’t like to read, you haven’t found the right book* - J.K. Rowling
 
+## Project
+
 ## Installation
 This project is written in Python 3.8.3.
 The `requirements.txt` file contains all required Python libraries. They can be installed using:
