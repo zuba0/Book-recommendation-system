@@ -6,9 +6,7 @@
 *If you don’t like to read, you haven’t found the right book* - J.K. Rowling
 
 ## Project description
-In this project I performed exploatory data anlysis on data about books and books ratings.
-I compared different models used for recommendation.
-Finally I choose the model which achieve the lowest RMSE.
+The goal of this project is creation of books recommendation system.
 
 
 ## Installation
