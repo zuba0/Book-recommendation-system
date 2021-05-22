@@ -22,6 +22,8 @@ pip install -r requirements.txt
 
 ## Results
 
+The best RMSE and MAE were achieved by SVD. All models are better than Random approach.
+
 | Model | RMSE | MAE |
 | --- | --- | --- |
 | Random   |	1.321724 |	1.051821 |
