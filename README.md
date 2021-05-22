@@ -14,16 +14,15 @@ pip install -r requirements.txt
 
 
 ## Aproaches
-
-1) Item-to-Item Based Collaborative Filtering
-2) User-to-User Based Collaborative Filtering
+Collaborative 
 
 ## Dataset
 
 [Goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k)
 
 ## Models
-
+SVD
+SVD++
 ## Results
 
 <table>
