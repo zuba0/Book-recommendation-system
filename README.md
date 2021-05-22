@@ -5,17 +5,28 @@
 
 *If you don’t like to read, you haven’t found the right book* - J.K. Rowling
 
+## Project description
+In this proejct I compared different models used for recommendation.
+All models are from the library Surprise.
+
 ## Installation
+This project is written in Python 3.8.3.
+The `requirements.txt` file contains all required Python libraries. They can be installed using:
+```
+pip install -r requirements.txt
+```
+
 
 ## Aproaches
-
-1) Item-to-Item Based Collaborative Filtering
-2) User-to-User Based Collaborative Filtering
+Collaborative 
 
 ## Dataset
 
 [Goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k)
 
+## Models
+SVD
+SVD++
 ## Results
 
 <table>
