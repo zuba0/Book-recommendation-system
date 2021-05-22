@@ -7,7 +7,7 @@
 
 ## Project description
 The goal of this project is creation of books recommendation system.
-I compared different models and approaches to find the best solution.
+I compared different models and collaborative filtering approaches to find the best solution.
 
 
 ## Installation
@@ -16,10 +16,6 @@ The `requirements.txt` file contains all required Python libraries. They can be 
 ```
 pip install -r requirements.txt
 ```
-
-
-## Aproaches
-Collaborative 
 
 ## Dataset
 
