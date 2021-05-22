@@ -43,6 +43,3 @@ SVD++
 |	KNNWithZScore item_based |	0.866092 |	0.677739 |
 |	KNNWithMeans item_based |	0.864491 |	0.676945 |
 |	SVD |	0.845166 |	0.663349 |
-
-
-## References
