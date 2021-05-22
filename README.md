@@ -9,7 +9,6 @@
 This project is written in Python 3.8.3.
 ```
 pip install -r requirements.txt
-
 ```
 
 
