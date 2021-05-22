@@ -46,7 +46,7 @@ def grid_knn(data, model_dict, k_list, min_k_list, similarities_list, user_based
 
 def grid_matrix_fact(data, model_dict, n_epochs, n_factors, lr_all, reg_all, cv=5):
     """
-    Return list of trained models in GridSearch SVD and SVD++ algorithms
+    Return list of trained models in GridSearch for SVD algorithm
     :param data:               Trainset to use in model training
     :param model_dict:         Dictionary with list of models(and their names) to be used
     :param n_epochs:           List of n_epochs values
