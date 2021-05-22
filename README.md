@@ -6,8 +6,10 @@
 *If you don’t like to read, you haven’t found the right book* - J.K. Rowling
 
 ## Project description
-In this proejct I compared different models used for recommendation.
-All models are from the library Surprise.
+In this project I performed exploatory data anlysis on data about books and books ratings.
+I compared different models used for recommendation.
+Finally I choose the model which achieve the lowest RMSE.
+
 
 ## Installation
 This project is written in Python 3.8.3.
